@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 😄 I’m Pasindu, a Software Engineering undergraduate at SLIIT.
+- 😄 I’m Pasindu Fernando, a former Software Engineer at IFS R&D International.
 - 🌱 I enjoy learning new technologies.
-- 🚀 I'm looking for an internship
+- 🚀 I'm looking for my dream job.
 
 
 ### Connect with me:
